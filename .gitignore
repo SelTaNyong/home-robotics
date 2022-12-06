@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+
+~/workspace/robotics-home$ python3 anything.py
+~/workspace/robotics-home$ ls
+~/workspace/robotics-home$ git status
+...
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	deleted:    __pycache__/add_lists.cpython-36.pyc
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
